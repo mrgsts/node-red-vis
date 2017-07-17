@@ -3,7 +3,7 @@
     "version"      : "0.4.3",
     "description"  : "Visualisation for node-red. Based on ioBroker.vis",
     "dependencies": {
-        "iobroker.vis": "^0.10.5",
+        "iobroker.vis": "^0.15.3",
         "iobroker.vis-bars": "*",
         "iobroker.vis-colorpicker": "*",
 		"iobroker.vis-canvas-gauges": "*",
